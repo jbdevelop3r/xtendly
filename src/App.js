@@ -28,11 +28,11 @@ function App() {
               <p className="learn-how"> Learn How FloQast Can </p>
               <p className="improve-month"> Improve Your Month-End </p>
             </div>
-            <div className="second-section-second-div">
+            <form className="second-section-second-div">
               <input placeholder="First Name*"/>
               <input placeholder="Email*" /> 
               <button> SCHEDULE NOW </button>
-          </div>
+          </form>
           </div>
 
         </section>
